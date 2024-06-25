@@ -268,69 +268,6 @@ import {
       image: newsapp,
       source_code_link: "https://github.com/Anand19987i/dailyhubnews",
     },
-    {
-      name: "Animated Porfolio",
-      description:
-        "It is a portfolio web application it is made by using react and Three.js which provides animation and responsiveness in the application in this tailwind css is used.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "three.js",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwindcss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: portfolio,
-      source_code_link: "https://github.com/Anand19987i/",
-    },
-    {
-      name: "Adopt Pet",
-      description:
-        "This is a simple static design based on pet adoption website in which the vanilla html, css and javascript is used.",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: adopt,
-      source_code_link: "https://adoptloviesnow.netlify.app",
-    },
-    {
-      name: "Course Selling Website",
-      description:
-        "This is a landing page which is fully responsive and it used the javascript for functionality.",
-      tags: [
-        {
-          name: "html",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "css",
-          color: "green-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: landing,
-      source_code_link: "https://infovilla.netlify.app",
-    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
